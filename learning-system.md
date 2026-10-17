@@ -16,11 +16,11 @@ Date: this could be single (10/16/2026) or this could be a range of dates for a 
 
 The first paragraph will be a summary of what I learned during a specific lesson or week.
 The next paragraph would be something I initially got wrong and had to correct. 
-I need to make sure I'm actually trying to make assumptions and guesses while learning this will help enhance memory of topics when I correct my self.
+I need to make sure I'm actually trying to make assumptions and guesses while learning this will help enhance memory of topics when I correct myself.
 
 ### Review Ritual ###
 
-Our reviews will occur in a variety of ways. Spaced repition will probably be the mosted used system during this learning process. We are going to take strong spots and review them fewer and less frequently than our weak spots. Eventually, this will cause our weak spots to become stronger and our strengths will remain sharp. The next technique we will utilize is Active recall. This is the "predict, then run" strategy. This is stronger because we will spend time thinking and making an educated prediction about how we think something will go. If we are wrong, the correction will stick in our memory better because we were already primed with a prediction. Finally we will try to explain concepts back in our own words as if we were teaching them. You know the saying "If you can't explain it simply, you don't know it well enough" - Albert Einstein.
+Our reviews will occur in a variety of ways. Spaced repetition will probably be the most used system during this learning process. We are going to take strong spots and review them fewer and less frequently than our weak spots. Eventually, this will cause our weak spots to become stronger and our strengths will remain sharp. The next technique we will utilize is Active recall. This is the "predict, then run" strategy. This is stronger because we will spend time thinking and making an educated prediction about how we think something will go. If we are wrong, the correction will stick in our memory better because we were already primed with a prediction. Finally we will try to explain concepts back in our own words as if we were teaching them. You know the saying "If you can't explain it simply, you don't know it well enough" - Albert Einstein.
 
 ### Stuck Rule ###
 
@@ -28,4 +28,4 @@ The rule is simple. We don't ask for help for at least 25 minutes while we work 
 
 ### What I'd Change ###
 
-Sometimes when I'm stuck or not understanding the tutor I need to be more forcefull in asking them to explain a concept showing me example code that I can visualize. 
+Sometimes when I'm stuck or not understanding the tutor I need to be more forceful in asking them to explain a concept showing me example code that I can visualize. 
