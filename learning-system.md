@@ -25,3 +25,7 @@ Our reviews will occur in a variety of ways. Spaced repition will probably be th
 ### Stuck Rule ###
 
 The rule is simple. We don't ask for help for at least 25 minutes while we work on a problem. If we are stuck after that then we can ask for hints. We never ask for a full solution and we never have AI do the coding for us.
+
+### What I'd Change ###
+
+Sometimes when I'm stuck or not understanding the tutor I need to be more forcefull in asking them to explain a concept showing me example code that I can visualize. 
